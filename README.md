@@ -4,6 +4,12 @@
 
 ## Usage
 
+### Installiation
+
+```
+pip install updateforgepy
+```
+
 ### Initialization
 
 ```python
